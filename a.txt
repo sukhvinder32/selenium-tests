@@ -1,0 +1,15 @@
+ Volume in drive D is DDRIVE
+ Volume Serial Number is 8A26-EC4F
+
+ Directory of D:\gitrepos\selenium-tests
+
+01/08/2017  09:27 AM    <DIR>          .
+01/08/2017  09:27 AM    <DIR>          ..
+01/08/2017  09:27 AM                 0 a.txt
+01/08/2017  09:23 AM             4,614 build.xml
+01/08/2017  09:23 AM    <DIR>          lib
+01/08/2017  09:23 AM    <DIR>          src
+01/08/2017  09:23 AM            17,403 TEST-selenium_tests.xml
+01/08/2017  09:23 AM            16,982 TESTS-TestSuites.xml
+               4 File(s)         38,999 bytes
+               4 Dir(s)  238,681,014,272 bytes free
