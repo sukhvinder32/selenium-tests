@@ -1,0 +1,17 @@
+ Volume in drive I is New Volume
+ Volume Serial Number is 442C-7709
+
+ Directory of I:\DevOps\CI\edureka
+
+14/03/2017  20:32    <DIR>          .
+14/03/2017  20:32    <DIR>          ..
+14/03/2017  20:20               606 a.txt
+14/03/2017  20:20               606 b.txt
+14/03/2017  20:20             4,614 build.xml
+14/03/2017  20:32                 0 c.txt
+14/03/2017  20:20    <DIR>          lib
+14/03/2017  20:20    <DIR>          src
+14/03/2017  20:20            17,403 TEST-selenium_tests.xml
+14/03/2017  20:20            16,982 TESTS-TestSuites.xml
+               6 File(s)         40,211 bytes
+               4 Dir(s)  101,783,298,048 bytes free
